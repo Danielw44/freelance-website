@@ -1,0 +1,37 @@
+/* --- Colours --- */
+/* --- Colours --- */
+/* --------------------------------*/
+/* --- Fonts --- */
+/* --- Fonts --- */
+/* --------------------------------*/
+/* --- Media Querys --- */
+/* --- Media Querys --- */
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: "Rubik";
+  font-weight: 300;
+}
+
+h2 {
+  font-family: "Rubik";
+  font-weight: 300;
+}
+
+/* --- Colours --- */
+/* --- Colours --- */
+/* --------------------------------*/
+/* --- Fonts --- */
+/* --- Fonts --- */
+/* --------------------------------*/
+/* --- Media Querys --- */
+/* --- Media Querys --- */
+/* --- desktop nav --- */
+/* --- mobile nav --- */
